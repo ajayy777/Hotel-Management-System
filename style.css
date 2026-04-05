@@ -1,0 +1,59 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background: #f4f4f4;
+}
+
+header {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.logo {
+    width: 60px;
+}
+
+nav {
+    text-align: center;
+    margin: 10px;
+}
+
+nav button {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.section {
+    display: none;
+    padding: 20px;
+}
+
+.room {
+    background: white;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.room img {
+    width: 200px;
+}
+
+footer {
+    text-align: center;
+    background: #222;
+    color: white;
+    padding: 10px;
+}
+
+.footer-logo {
+    width: 40px;
+    margin: 5px;
+}
+
+.whatsapp {
+    width: 50px;
+}
